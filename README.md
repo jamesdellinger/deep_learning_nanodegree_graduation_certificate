@@ -6,7 +6,7 @@
 ## Graduation Certificate
 This repository contains my [graduation certificate](https://github.com/jamesdellinger/deep_learning_nanodegree_graduation_certificate/blob/master/deep_learning_nanodegree_graduation_certificate_james_dellinger.pdf) for Udacity's [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101) Nanodegree.
 
-<img src="https://github.com/jamesdellinger/machine_learning_nanodegree_graduation_certificate/blob/master/deep_learning_nanodegree_graduation_certificate_james_dellinger.png" alt="Deep Learning Nanodegree Certificate" height="400" >
+<img src="https://github.com/jamesdellinger/deep_learning_nanodegree_graduation_certificate/blob/master/deep_learning_nanodegree_graduation_certificate_james_dellinger.png" alt="Deep Learning Nanodegree Certificate" height="400" >
 
 My completion of this degree may be verified at Udacity: https://confirm.udacity.com/TA9YXFPW
 
